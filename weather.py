@@ -1,3 +1,5 @@
+
+# borrowed from https://gist.github.com/sarahbees/21f78b1d06ff2985e4c9
 import requests
 
 def get_weather_forecast():
